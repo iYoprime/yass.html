@@ -1,0 +1,40 @@
+.a{
+   color: white;
+   margin-bottom: 70px;
+   margin-bottom: 10px;
+    
+}
+.b{
+    background-color: rgb(61, 60, 60);
+}
+.c{
+    display: flex;
+    justify-content: flex-end;
+    text-align: center;
+    
+
+    
+    
+}
+li{
+    list-style: none;
+    margin: 10px;
+    color: white;
+}
+.h{
+    text-align: center;
+}
+.t{
+    margin-right: 1100px;
+    background-color: azure;
+    margin-bottom: 100px;
+    
+
+}
+.m{
+    display: flex;
+    
+    margin-top: 50px;
+    padding-left: 550px;
+    padding-bottom: 50px;
+}
